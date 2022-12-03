@@ -1,0 +1,35 @@
+section
+{
+     height: 110vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: aliceblue;
+ background-image: url("https://img.freepik.com/free-vector/hand-drawn-travel-background_52683-85109.jpg?w=2000")
+
+} 
+form{
+ color:black;
+ width:250px;
+top:100px;
+bottom: 90px;
+ margin-left:660px;
+}
+
+button{
+    position: absolute;
+    /* margin-left: 34px; */
+    font-weight: bold;
+    border-radius: 2px;
+    width: 8rem;
+    padding: 4px;
+    bottom: 210px;
+    background-color: rgb(151, 180, 239);
+}
+input{
+    font-style:oblique;
+}
+h2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

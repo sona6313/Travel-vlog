@@ -1,0 +1,48 @@
+ section
+{
+     height: 180vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: aliceblue;
+ background-image: url("https://wallpaperaccess.com/full/185289.jpg")
+
+} 
+form{
+    /* background-color: black; */
+    padding: 50px;
+    position: absolute;
+    top: 30px;
+    left:200px;
+    width: 380px;
+
+    
+
+}
+button{
+    position: absolute;
+    /* margin-left: 34px; */
+    font-weight: bold;
+    border-radius: 2px;
+    width: 8rem;
+    padding: 4px;
+    bottom: 3px;
+    background-color: rgb(151, 226, 239);
+}
+
+.form-a{
+    font-style:oblique;
+    color: rgb(8, 3, 54);
+}
+
+h4{
+    font-style: oblique;
+    font-weight: bold;
+}
+.fe{
+   /* font-size: 19px; */
+
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
